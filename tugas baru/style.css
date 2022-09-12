@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.semua{
+    margin-right: 20%;
+    margin-left: 20%;
+    border: 1px solid black;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.kontent{
+    background-color: #008a8a;
+    color: white;
+}
+
+.kontent a{
+    color: white;
+}
+
+.history span{
+    background-color: yellow;
+}

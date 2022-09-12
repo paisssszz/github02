@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    padding: 0;
+    margin-right: 10%;
+
+}
+
+.point{
+    height: 367vh;
+    /* background-color: red; */
+    border: 1px solid black;
+    margin: 0 50px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.foto{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.foto img{
+    width: 25%;
+    margin-right: 5px;
+}
+
+.foto h2{
+  
+    float: right;
+    margin-left: 10px;
+    display: flex;
+    background-color:#0001fc;
+    color: white;
+}
+
+.Cabang{
+    display: flex;
+    justify-content: space-around;
+    font-family: EB Garamond;
+    
+}
+
+.bagrou{
+    background-color: #0001fc;
+    display: flex;
+    color: white;
+}
+
+.bagrou h3{
+    margin-left: 40%;
+}
+
+.name{
+    margin-left: 3%;
+}
+
+.alias{
+    margin-left: 3%;
+}
+
+.tempat{
+    margin-left: 3%;
+}
+
+.lahir{
+    margin-left: 3%;
+}
+
+.Kelamin{
+    margin-left: 3%;
+}
+
+.tgl{
+    display: flex;
+    justify-content: space-around;
+}
+
+.alamat{
+    margin-right: 180px;
+}
+
+.Rumah{
+    margin-right: 150px;
+}
+
+.mail{
+    margin-left: 3%;
+}
+
+.pos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.ktp{
+    margin-left: -35px;
+    margin-right: 100px;
+}
+
+.kode{
+    margin-left: 2%;
+    margin-right: 20px;
+}
+
+.tanda{
+    margin-right: 20%;
+    display: flex;
+    margin-top: 30px;
+}
+
+.warna{
+    background-color: #0001fc;
+    color: #0001fc;
+    height: 30px;
+}
+
+.penugas{
+    justify-content: space-around;
+    display: flex; 
+}
+
+.tanda{
+    margin-top: 5%;
+    
+}
+
+.tangan{
+    margin-top: 5%;
+}
+
+.last{
+    display: flex;
+    background-color:#0001fc;
+    color: white;
+}
+
+.last h3{
+    margin-left: 39%;
+}
+
+.setuju{
+    margin-left: 3%;
+}
+
+.pejabat{
+    float: right;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.oke{
+    margin-top: 13%;
+    background-color:#0001fc;
+    color: white;
+}
+
+.oke h3{
+    margin-left: 22%;
+}
+
+.catatan{
+    width: 40%;
+}
+
+.from{
+    float: right;
+    margin-right: 3%;
+    margin-top: 1%;
+}

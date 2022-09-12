@@ -1,0 +1,17 @@
+body{
+    margin: 200px;
+    border: solid 1px;
+}
+
+.kontent{
+    background-color: darkcyan;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kontent a{
+    color: white;
+}
+
+span{
+    background-color: yellow;
+}
